@@ -1,0 +1,12 @@
+LISTA MATERIALI USATI:
+
+1 Arduino (qualsiasi)
+1 sensore ad ultrasuoni HC-SR04
+1 buzzer
+1 LCD 20x4 I2C
+
+COLLEGAMENTI:
+
+Buzzer --> GND - 5V - D9
+HC-SR04  --> 5V - D7 (trigger) - D8 (echo) - GND
+LCD    --> GND - 5V - SDA - SCL
